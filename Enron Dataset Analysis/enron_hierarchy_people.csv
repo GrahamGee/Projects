@@ -1,0 +1,21 @@
+FirstName,LastName,Mailbox,Email,Role,AlternateEmails,Assistant
+Kenneth,Lay,lay-k,kenneth.lay@enron.com,Chairman & CEO,ken.lay@enron.com; lay-k@enron.com,rosalee.fleming@enron.com
+Jeffrey,Skilling,skilling-j,jeff.skilling@enron.com,President / COO,jeffrey.skilling@enron.com; skilling-j@enron.com,sherri.sera@enron.com
+Andrew,Fastow,fastow-a,andrew.fastow@enron.com,Chief Financial Officer,fastow-a@enron.com; andy.fastow@enron.com,maria.fernandez@enron.com
+Mark,Frevert,frevert-m,mark.frevert@enron.com,Executive Vice President,frevert-m@enron.com,kathleen.bailey@enron.com
+Richard,Causey,causey-r,richard.causey@enron.com,Chief Accounting Officer,causey-r@enron.com,paula.harris@enron.com
+Louise,Kitchen,kitchen-l,louise.kitchen@enron.com,Head of EnronOnline,kitchen-l@enron.com; louise.kitchen@ect.enron.com,stacy.white@enron.com
+John,Lavorato,lavorato-j,john.lavorato@enron.com,"CEO, Enron Americas",lavorato-j@enron.com,kimberly.watson@enron.com
+David,Delainey,delainey-d,david.delainey@enron.com,"CEO, Enron North America",delainey-d@enron.com,tracey.kuykendall@enron.com
+Greg,Whalley,whalley-g,greg.whalley@enron.com,"President, Enron Wholesale Services",whalley-g@enron.com,kelly.kimberly@enron.com
+Mark,Haedicke,haedicke-m,mark.haedicke@enron.com,"General Counsel, Enron Wholesale",haedicke-m@enron.com,sarah.novosel@enron.com
+Richard,Sanders,sanders-r,richard.sanders@enron.com,Managing Counsel,sanders-r@enron.com,tammy.daniel@enron.com
+Sally,Beck,beck-s,sally.beck@enron.com,"COO, Enron Wholesale Services",beck-s@enron.com,janet.dietrich@enron.com
+Kevin,Hannon,hannon-k,kevin.hannon@enron.com,"COO, Enron Energy Services",hannon-k@enron.com,kimberly.watson@enron.com
+Tim,Belden,belden-t,tim.belden@enron.com,"Director, Enron West Power Trading",belden-t@enron.com,jenny.thomas@enron.com
+John,Forney,forney-j,john.forney@enron.com,"Trader, Enron West Power",forney-j@enron.com,renee.lawson@enron.com
+Jeff,Dasovich,dasovich-j,jeff.dasovich@enron.com,"Director, Government Affairs",dasovich-j@enron.com,jill.basile@enron.com
+Tana,Jones,jones-t,tana.jones@enron.com,"Senior Counsel, Legal Department",jones-t@enron.com,mark.haedicke@enron.com
+Phillip,Allen,allen-p,phillip.allen@enron.com,"Trader, Enron Wholesale",allen-p@enron.com,kimberly.hill@enron.com
+Chris,Germany,germany-c,chris.germany@enron.com,Trading Operations Analyst,germany-c@enron.com,lori.maddox@enron.com
+Eric,Bass,bass-e,eric.bass@enron.com,Analyst / Trader Support,bass-e@enron.com,amy.fitzpatrick@enron.com
